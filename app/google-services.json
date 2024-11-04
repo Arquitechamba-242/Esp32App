@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "172081775036",
+    "project_id": "esp32dbproject",
+    "storage_bucket": "esp32dbproject.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172081775036:android:e4297c883a830b4fe7abb9",
+        "android_client_info": {
+          "package_name": "com.example.mytest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMUh1HFikwGWGAIksDp6ZS1TzosQC8xeo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

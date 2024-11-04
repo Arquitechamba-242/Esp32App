@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyTest</string>
+    <string name="buttonText1">Write Data</string>
+    <string name="buttonText2">Fetch Data</string>
+    <string name="fieldText1">Field 1</string>
+    <string name="fieldText2">Field 2</string>
+    <string name="fieldText3">Field 3</string>
+    <string name="fieldText4">Field 4</string>
+</resources>
